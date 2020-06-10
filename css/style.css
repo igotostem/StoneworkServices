@@ -829,7 +829,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4dac71;
+			background-color: #004b80;
 			color: #ffffff !important;
 		}
 
@@ -837,7 +837,7 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5cb67e;
+				background-color: #004b80;
 			}
 
 			input[type="submit"].special:active,
