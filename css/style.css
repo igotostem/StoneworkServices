@@ -1043,7 +1043,7 @@
 
 	#footer {
 		background: #003c66;
-		color: #888;
+		color: #ffffff;
 		padding: 6em 0em 4em;
 	}
 
@@ -1057,7 +1057,7 @@
 			-o-transition: all 0.2s ease-in-out;
 			-ms-transition: all 0.2s ease-in-out;
 			transition: all 0.2s ease-in-out;
-			color: #888;
+			color: #ffffff;
 		}
 
 			#footer a:active, #footer a:hover {
