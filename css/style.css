@@ -27,8 +27,10 @@
 	}
 
 	a {
-		color: #004b80;
+		color: #ffffff;
 		text-decoration: underline;
+		font-weight: 400;
+		
 	}
 
 		a:hover {
