@@ -1,4 +1,4 @@
-@charset "UTF-8";
+0@charset "UTF-8";
 @import url(font-awesome.min.css);
 @import url("http://fonts.googleapis.com/css?family=Lato:300,400");
 
@@ -500,6 +500,11 @@
 			float: left;
 			top: 2vh;
 			width: 25%;
+		}
+		
+		.image.logo {
+			width: 40%;
+			margin: -10em 0 0 0;
 		}
 
 /* List */
