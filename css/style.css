@@ -248,8 +248,8 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4dac71;
-			box-shadow: 0 0 0 1px #4dac71;
+			border-color: #003c66;
+			box-shadow: 0 0 0 1px #003c66;
 		}
 
 	.select-wrapper {
@@ -352,16 +352,16 @@
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #3ba666;
-			border-color: #3ba666;
+			background: #004b80;
+			border-color: #004b80;
 			color: #ffffff;
 			content: '\f00c';
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4dac71;
-			box-shadow: 0 0 0 1px #4dac71;
+			border-color: #003c66;
+			box-shadow: 0 0 0 1px #003c66;
 		}
 
 	input[type="checkbox"] + label:before {
