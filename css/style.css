@@ -507,6 +507,17 @@
 			width: 40%;
 			margin: -10em 0 0 0;
 		}
+		
+		.image.fit2 {
+			display: block;
+			margin: 0 0 2em 0;
+			width: 100%;
+		}
+		
+					.image.fit2 img {
+				width: 60%;
+			}
+
 
 /* List */
 
